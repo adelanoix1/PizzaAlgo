@@ -2,8 +2,11 @@
 2. Decide which type of pizza to order
 3. Call desired pizza place
 4. Order desired pizza
-    4a. Pay over phone
+    4a. Pay over phone/online
     4b. Pay at door
 5. Wait for deliver
 6. Greet delivey driver
 7. return to step 4b if needed
+8. If paying at the door provide cash
+9. if paying over phone/online, sign receipt
+10. if paying at door, tip driver.
